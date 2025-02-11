@@ -1,0 +1,9 @@
+---
+title: "Module 02: Lab 01 - Learning on Cloud 9"
+author: "Jason Stopas"
+format:
+   html:
+      toc: true
+      html-math-method: katex
+      embed-resources: true
+---
